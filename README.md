@@ -11,7 +11,7 @@ Key metrics at a glance:
 	•	💲 4.61 Average Unit Price
 	•	🏷️ 2.5M Total Unit Price
   🧹 Data Cleaning Process
-
+   ![Project Screenshot](7fc71b93-e6b3-43f6-9ede-c2f9d0eb7338.jpeg)
 
   ![Project Screenshot](c38ef04e-47d1-409e-a2a7-220ac3ccc44d.jpeg)
 The raw dataset required significant cleaning before analysis. Here’s a full breakdown of every step taken:
