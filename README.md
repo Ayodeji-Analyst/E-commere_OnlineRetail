@@ -1,4 +1,4 @@
-# E-commere_OnlineRetail
+# E-commerce_OnlineRetail
 🛒 E-Commerce Online Retail Sales Dashboard
 📌 Project Overview
 This project analyzes an online retail e-commerce dataset to uncover sales trends, top-performing products, customer distribution by country, and revenue patterns over time. The final output is an interactive Excel dashboard with monthly filtering capabilities.
