@@ -11,6 +11,9 @@ Key metrics at a glance:
 	•	💲 4.61 Average Unit Price
 	•	🏷️ 2.5M Total Unit Price
   🧹 Data Cleaning Process
+
+
+  ![Project Screenshot](c38ef04e-47d1-409e-a2a7-220ac3ccc44d.jpeg)
 The raw dataset required significant cleaning before analysis. Here’s a full breakdown of every step taken:
 1. Removed Duplicate Records
 	•	Identified and removed duplicate rows based on InvoiceNo, StockCode, and InvoiceDate combinations to ensure each transaction was counted only once.
